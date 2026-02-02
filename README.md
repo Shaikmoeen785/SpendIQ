@@ -1,5 +1,5 @@
 🛒 SpendIQ: Scan, Track, and Pay Smarter
-Live Demo → https://spend-iq-pi.vercel.app
+Live Demo → https://spendiqpro.vercel.app/login
 
 SpendIQ is a modern web application that transforms the retail experience. By enabling real-time barcode scanning, instant budget tracking, and queue-free payments directly from a smartphone, it empowers both shoppers and businesses.
 
